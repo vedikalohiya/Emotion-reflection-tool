@@ -2,8 +2,6 @@
 
 An AI-powered application that helps you analyze and reflect on your emotions. Built with a modern, premium UI and robust backend analysis.
 
-![Emotion Reflection Tool](https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?q=80&w=2670&auto=format&fit=crop)
-
 ## 🚀 Features
 
 -   **Premium UI**: Glassmorphism design with dynamic gradient backgrounds.
